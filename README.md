@@ -30,6 +30,10 @@ App social facul
 Avatar randomico:
  'userImage': 'https://eu.ui-avatars.com/api/?name=${WordPair.random().asPascalCase}&background=random',
 
+### :Idéia e coofundador do APP
+- Gustavo Sacco
+
+
 ### :satellite: BackEnd   
 - com.unna.social.unna
 - conta: edson.unna@gmail.com
